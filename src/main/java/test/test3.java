@@ -3,7 +3,7 @@ package test;
 public class test3 {
 
 	public String run(){
-		return "test git branches6";
+		return "test git branches61";
 		
 	}
 }
